@@ -5,7 +5,6 @@ A Vercel é uma plataforma voltada para a hospedagem de aplicações de uma form
 ![Captura de Tela (12)](https://user-images.githubusercontent.com/64798575/97781456-40a57280-1b6a-11eb-8cb7-c73fefc955fc.png)
 
 # Tecnologias
-#### [JavaScript](https://www.javascript.com/)
 #### [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 #### [HTML](https://html.com/)
 
