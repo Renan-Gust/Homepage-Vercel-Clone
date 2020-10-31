@@ -1,0 +1,59 @@
+/*Version Desktop*/
+@media (min-width: 760px) {
+  header #heading {
+    padding: 0 2rem;
+  }
+
+  header #heading #header-second,
+  header #heading #header-third {
+    opacity: 1;
+    display: block;
+  }
+
+  header #heading button.sign-up {
+    width: 7.8rem;
+    height: 3.2rem;
+
+    background: black;
+    color: white;
+    font-weight: 500;
+
+    border-radius: 0.6rem;
+
+    transition: 200ms;
+
+    margin-left: 1rem;
+  }
+
+  header #heading button.sign-up:hover {
+    background: transparent;
+
+    border: 1px solid black;
+    color: black;
+  }
+
+  header #heading button.open-menu {
+    opacity: 0;
+    display: none;
+  }
+
+  main h1 span {
+    font-size: clamp(10rem, 16vw, 14rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  header #heading {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  main .buttons {
+    display: flex;
+    flex-direction: row;
+  }
+
+  main .buttons button.second-button {
+    margin: 0 0 0 2rem;
+  }
+}
