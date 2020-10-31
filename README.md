@@ -9,5 +9,5 @@ A Vercel é uma plataforma voltada para a hospedagem de aplicações de uma form
 #### [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 #### [HTML](https://html.com/)
 
-### Bom, esse é um projeto desenvolvendo um clone da Página Vercel. Essa ideia eu peguei do canal da Rocketseat do youtube.
+Bom, esse é um projeto desenvolvendo um clone da Página Vercel. Essa ideia eu peguei do canal da Rocketseat do youtube.
 
